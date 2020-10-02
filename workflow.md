@@ -17,24 +17,28 @@
 
 ### 이전 시간에 제출했던 Git workflow에 대한 설명
 
->> 1.
+> 1. Master (Main)
 
+Develop branch에서 통합된 기능들을 최종적으로 버전관리하고 릴리스까지 담당하는 브랜치.
 
+릴리스를 담당하는 브랜치이므로 안정된 상태가 유지되어야 한다.
 
+> 2.develop
 
->> 2.develop:
-master(main) 브렌치를 stable하게 유지하기 위해 master(main)에서 분기된 브렌치.  
+master(main) 브렌치를 stable하게 유지하기 위해 master(main)에서 분기된 브랜치.
+
 이하 추가 기능들은 이 브렌치에서 분기하여 개발하고 마찬가지로 이 브렌치로 merge한다.  
+
 master(main) 브렌치로 merge하기 전에 추가된 기능들 간의 충돌을 관리하고 안정된 상태임을 검증한 뒤 master(main) 브렌치로 merge한다.
 
->> 3.
+> 3.
 
 
 
 
->> 4.
+> 4.
 
 
 
 
->> 결과화면
+> 결과화면
