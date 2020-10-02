@@ -22,10 +22,10 @@
 
 
 
->> 2.
-
-
-
+>> 2.develop:
+master(main) 브렌치를 stable하게 유지하기 위해 master(main)에서 분기된 브렌치.
+이하 추가 기능들은 이 브렌치에서 분기하여 개발하고 마찬가지로 이 브렌치로 merge한다.
+master(main) 브렌치로 merge하기 전에 추가된 기능들 간의 충돌을 관리하고 안정된 상태임을 검증한 뒤 master(main) 브렌치로 merge한다.
 
 >> 3.
 
