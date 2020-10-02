@@ -1,5 +1,7 @@
 # sdpPbl2
 
+<br/>
+
 ### team member
 
 2019056462 임단비(dlaeksql08222@gmail.com)
@@ -14,8 +16,11 @@
 
 2019044211 임승현(lsh0805@hanyang.ac.kr)
 
+<br/>
 
 ### 이전 시간에 제출했던 Git workflow에 대한 설명
+
+<br/>
 
 > 1. master (Main)
 
