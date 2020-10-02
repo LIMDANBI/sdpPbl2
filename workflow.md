@@ -27,10 +27,11 @@
 
 
 
->> 3.
+>> 3. features
 
-
-
+추가적인 기능을 구현하기 위해 develop branch에서 파생된  branch 이다.
+각 팀마다 branch를 feature/f1, feature/f2, feature/f3 로 나누어 개발을 진행한다.
+추가기능 구현이 완료되어 commit이 되었다면 develop branch 에 merge/rebase 한다.
 
 >> 4.
 
